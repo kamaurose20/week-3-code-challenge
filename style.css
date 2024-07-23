@@ -1,0 +1,15 @@
+#menu {
+    float: left;
+    width: 20%;
+    border-right: 1px solid #ccc;
+    padding-right: 10px;
+}
+#main {
+    float: left;
+    width: 75%;
+    padding-left: 10px;
+}
+.menu-item {
+    cursor: pointer;
+    margin-bottom: 5px;
+}
